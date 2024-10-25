@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Meu Site em JavaScript</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao Meu Site!</h1>
+        <div class="indesc">INDESC</div>
+        <button id="btnClick">Clique aqui!</button>
+        <p id="message"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
